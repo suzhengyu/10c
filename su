@@ -1,5 +1,6 @@
-class aa(){
-}
 public static void(){
   System.out.ptrintln("fsdfsdf");
-} 
+}
+public class aa(){
+
+}
